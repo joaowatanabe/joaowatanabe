@@ -16,6 +16,10 @@
   <img align="center" alt="Wabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+ 
+<div>
+  <img aling="right" alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif"
+</div>
   
   ##
   
