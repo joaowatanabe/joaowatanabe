@@ -6,7 +6,7 @@
   - 🪴 Always studying, current: JS, Node, React, Postgrees;
   - 🎛 Music, series, movies, drinks & friends.
   - 🎓 [Fullstack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | @ [ [Cubos Academy](https://cubos.academy/) ]
-  - I'm also curious about [Ux/Ui, Ai, Games, Cars and Dystopian fiction books]
+  - 💭I'm also curious about [Ux/Ui, Ai, Games, Cars and Dystopian fiction books]
   - 📚 Reading: [Sprawl trilogy by William Gibson]
 
 > One step every day!
