@@ -15,7 +15,6 @@
   <div style="display: inline_block">
   <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,git,postgres,react,ts,vscode,ableton"
-
   </div>
  
   <div>
