@@ -1,6 +1,6 @@
 # Hello!👋 Welcome, my name is João Watanabe, you can call me Wabe
   
-### About me  
+## About me  
 
   - 🎧 Dj & music producer in spare time;
   - 🪴 Always studying, current: JS, Node, React, Postgrees;
@@ -11,22 +11,23 @@
 
 > One step every day!
   
+  <br>
   <div>
     <a href="https://github.com/wabemusic">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wabemusic&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </div>
-    
+  <br>
   
   <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,postgres,react,ts,vscode,ableton"
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,postgres,react,ts,vscode,ableton">
   </div>
- 
+ <br>
   <div>
     <img aling="right" alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
   </div>
-    
-  ## For contact and more info, follow me! 
+  <br>
+  ### For contact and more info, follow me! 
     
   <div> 
     <a href="https://instagram.com/wabemusic" target="_blank">
