@@ -22,9 +22,11 @@
 
 <br>
   
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,node,git,postgres,react,vscode,ableton">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,vscode,figma,ableton" />
+  </a>
+</p>
 
 <br>
   
