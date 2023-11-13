@@ -11,9 +11,9 @@
 
 > One step every day!
 
-<p align="center">
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+</div>
 
 <br>
 <div align="center">
@@ -32,8 +32,8 @@
 
 <br>
   
-<div>
-  <img aling="center" alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
+<div align="center">
+  <img  alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
 </div>
     
 ### For contact and more info: 
