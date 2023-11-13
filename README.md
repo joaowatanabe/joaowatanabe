@@ -5,11 +5,13 @@
   - 🎧 Dj & music producer in spare time;
   - 🪴 Always studying, current: JS, Node, React, Postgrees;
   - 🎛 Music, series, movies, drinks & friends.
-  - 🎓 [Fullstack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | @ [ [Cubos Academy](https://cubos.academy/) ]
+  - 🎓 [Fullstack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
   - 💭 I'm also curious about [Ux/Ui, Ai, Games, Cars and Dystopian fiction books]
   - 📚 Reading: [Sprawl trilogy by William Gibson]
 
 > One step every day!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 <div>
