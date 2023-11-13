@@ -11,9 +11,9 @@
 
 > One step every day!
 
-<a href="[https://open.spotify.com/playlist/6ZQv721uMJPVksYXRXZiAA?si=2c22c4feb0ca47d8]">
-  <img src="https://readme-playing.vercel.app//api?theme=dark" alt="Current Spotify Song">
-</a>
+<div>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <br>
 <div align="center">
