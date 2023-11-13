@@ -11,10 +11,12 @@
 
 > One step every day!
 
+<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
 <br>
-<div>
+<div align="center">
   <a href="https://github.com/wabemusic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wabemusic&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -31,7 +33,7 @@
 <br>
   
 <div>
-  <img aling="right" alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
+  <img aling="center" alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
 </div>
     
 ### For contact and more info: 
