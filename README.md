@@ -11,8 +11,8 @@
 
 > One step every day!
 
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-sooty-iota.vercel.app/api" alt="Current Spotify Song">
+<a href="[https://open.spotify.com/playlist/6ZQv721uMJPVksYXRXZiAA?si=2c22c4feb0ca47d8]">
+  <img src="https://readme-playing.vercel.app//api?theme=dark" alt="Current Spotify Song">
 </a>
 
 <br>
