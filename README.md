@@ -16,8 +16,7 @@
 
 <br>
 
-![wabemusic github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko)
-![wabemusic github stats](https://github-readme-stats.vercel.app/api?username=wabemusic&&show_icons=true&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wabemusic&theme=merko&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)
 
 <div align="center">
   <a href="https://github.com/wabemusic">
