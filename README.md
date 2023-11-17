@@ -17,8 +17,9 @@
 <br>
 
   <!-- GithubStats -->
+<div align="center">
 ![wabemusic GitHub stats](https://github-readme-stats.vercel.app/api?username=wabemusic&show_icons=true&theme=gotham)
-  
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,vscode,figma,ableton" />
