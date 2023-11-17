@@ -16,7 +16,7 @@
 
 <br>
 
-[![wabemusic's GitHub stats](https://github-readme-stats.vercel.app/api?username=wabemusic)](https://github.com/anuraghazra/github-readme-stats)
+[![wabemusic's GitHub stats](https://github-readme-stats.vercel.app/api?username=wabemusic&show_icons=true)]
 
 <p align="center">
   <a href="https://skillicons.dev">
