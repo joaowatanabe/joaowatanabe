@@ -28,9 +28,8 @@
 
 <br>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)(https://spotify-github-profile.vercel.app/api/view?uid=12142982263&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
-<br>
 <div align="center">
   <img  alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
 </div>
