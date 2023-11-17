@@ -1,6 +1,7 @@
-# Hello!👋 Welcome, my name is João Watanabe, you can call me Wabe
+# Hello!👋 I'm João Watanabe
+##you can call me Wabe
   
-## About me
+### About me
 
   - 🎧 Dj & music producer in spare time;
   - 🪴 Always studying, current: JS, Node, React, Postgrees;
@@ -16,13 +17,11 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wabemusic&theme=merko&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)
-
-<div align="center">
-  <a href="https://github.com/wabemusic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wabemusic&&show_icons=true&theme=merko"/>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wabemusic&theme=merko&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
 </div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,vscode,figma,ableton" />
@@ -51,3 +50,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
