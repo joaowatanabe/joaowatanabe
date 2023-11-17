@@ -19,7 +19,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wabemusic&theme=merko&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=wabemusic&show_icons=true&theme=merko&layout=compact" />
 </div>
 
 <p align="center">
@@ -51,4 +51,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A461D&height=120&section=footer"/>
