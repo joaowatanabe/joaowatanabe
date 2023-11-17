@@ -15,8 +15,9 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&redirect=true)
 
 <br>
-[![wabemusic github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko)](https://github.com/wabemusic)
-![wabemusic github stats](https://github-readme-stats.vercel.app/api?username=wabemusic&&show_icons=true&theme=merko)](https://github.com/wabemusic)
+
+![wabemusic github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabemusic&layout=compact&langs_count=6&theme=merko)
+![wabemusic github stats](https://github-readme-stats.vercel.app/api?username=wabemusic&&show_icons=true&theme=merko)
 
 <div align="center">
   <a href="https://github.com/wabemusic">
