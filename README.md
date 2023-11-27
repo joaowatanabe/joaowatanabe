@@ -12,19 +12,20 @@
 
 > One step every day!
 
-<p align="center">
+<p align-items="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,vscode,figma,ableton" />
   </a>
 </p>
 
 <br>
+<div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0f6c2b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&redirect=true)
 
 <img  alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
+</div>  
 
-    
 ### For contact and more info: 
 
 <div> 
