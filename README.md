@@ -19,7 +19,7 @@
 </p>
 
 <br>
-<div align-items="center">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0f6c2b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&redirect=true)
 
