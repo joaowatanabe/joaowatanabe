@@ -1,14 +1,13 @@
-# Olá!👋 Me chamo João Watanabe
-
+# Hello! 👋 I'm João Watanabe
+Full Stack Developer | JavaScript | Node.js
   
-### Sobre:
-Desenvolvedor Full Stack | JavaScript | Node.js
-  - 🎧 Dj & produtor musical no tempo livre;
-  - 🪴 Sempre estudando, atualmente: JS, Node, React, Postgrees;
-  - 🎛 Musicas, series, filmes, drinks & amigos.
-  - 🎓 [Desenvolvimento Full Stack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
-  - 💭 Eu também me interesso sobre: [Ux/Ui, Ai, jogos, carros e livros de ficção distópicos]
-  - 📚 Lendo: [Trilogia Sprawl do William Gibson]
+### About me:
+  - 🎧 Dj & music producer in spare time;
+  - 🪴 Always studying, current: JS, Node, React, Postgrees;
+  - 🎛 Music, series, movies, drinks & friends.
+  - 🎓 [Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
+  - 💭 I'm also curious about [Ux/Ui, Ai, Games, Cars and Dystopian Fiction Books]
+  - 📚 Reading: [Sprawl trilogy by William Gibson]
 
 > One step every day!
 
@@ -26,7 +25,7 @@ Desenvolvedor Full Stack | JavaScript | Node.js
 <img  alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
 </div>  
 
-### Para contato e mais informações: 
+### For contact and more info: 
 
 <div> 
   <a href="https://instagram.com/wabemusic" target="_blank">
