@@ -47,4 +47,4 @@ Full Stack Developer | JavaScript | Node.js
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A461D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f2054&height=120&section=footer"/>
