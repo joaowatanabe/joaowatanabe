@@ -18,8 +18,8 @@ Full Stack Developer | JavaScript | Node.js
 </p>
 
 <p align="center">
-  <img alt="top langs" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=tokyonight"/>
-  <img alt="my stats" width="45.7%" src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight"/>
+  <img alt="top langs" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=tokyonight"/>
+  <img alt="my stats" width="47.7%" src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight"/>
 </p>
 
 <br>
