@@ -17,15 +17,21 @@ Full Stack Developer | JavaScript | Node.js
   </a>
 </p>
 
-[![João Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe)](https://github.com/joaowatanabe/github-readme-stats)
+<p align="center">
+  <img alt="top langs" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=tokyonight"/>
+  <img alt="my stats" width="45.7%" src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight"/>
+</p>
 
 <br>
-<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0f6c2b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12142982263&redirect=true)
+<p align="center">
+  <img alt="current music" src="https://spotify-github-profile.vercel.app/api/view?uid=12142982263&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0f6c2b&bar_color_cover=false"/>
+</p>
 
-<img  alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif">
-</div>  
+<p align="center">
+  <img alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif"/>
+</p>  
+
 
 ### For contact and more info: 
 
