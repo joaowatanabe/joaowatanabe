@@ -17,9 +17,7 @@ Full Stack Developer | JavaScript | Node.js
   </a>
 </p>
 
-<div  align=center widht=100% >
-  [João Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight) 
-</div>
+[![João Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <div align="center">
