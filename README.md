@@ -18,8 +18,7 @@ Full Stack Developer | JavaScript | Node.js
 </p>
 
 <div  align=center widht=100% >
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=radical&layout=compact&hide_border=true" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Carol's github stats" /></a> 
+  [João Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight) 
 </div>
 
 <br>
