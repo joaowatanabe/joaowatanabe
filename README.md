@@ -3,7 +3,7 @@
 # Hello! 👋 I'm João Watanabe
 
 <p align="center">
-  Full Stack Developer | JavaScript | Node.js.
+  Full Stack Developer | JavaScript | Node.js | PostgreSQL
 </p>
 
 
