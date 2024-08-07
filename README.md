@@ -27,7 +27,7 @@
 ## GitHub Stats
 <p align="center">
   <img alt="top langs" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=tokyonight"/>
-  <img alt="my stats" width="47.7%" src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=tokyonight"/>
+  <img alt="my stats" width="47.7%" src="https://github-readme-stats.vercel.app/api?username=joaowatanabe&show_icons=true&theme=transparent"/>
 </p>
 
 ## Certifications
