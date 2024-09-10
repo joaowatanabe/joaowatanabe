@@ -24,15 +24,17 @@
 </p>
 
 ## GitHub Stats
-<p align="center">
-  <img width=400 src='https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-</p>
-<p align="center">
-  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joaowatanabe&theme=vue-dark&hide_border=true' />
-</p>
-<p align="center">
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-</p>
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaowatanabe&theme=tokyonight&hide_border=true&locale=en&card_width=800&card_height=200&fire=6B32B7&ring=E60BFF)](https://git.io/streak-stats)
+
+  ![Joao Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=tokyonight&hide_border=true&locale=en&card_width=800&show_icons=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=tokyonight&hide_border=true&layout=compact&card_width=800)
+  
+</div>
+
 
 ## Certifications
 - [Full Stack Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) - Cubos Academy
