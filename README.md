@@ -27,8 +27,8 @@
 ## GitHub Stats
 <p align="center">
   <img width=400 src='https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joaowatanab&theme=vue-dark&hide_border=true' />
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joaowatanabe&theme=vue-dark&hide_border=true' />
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
 ## Certifications
