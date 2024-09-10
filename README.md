@@ -3,13 +3,12 @@
 # Hello! 👋 I'm João Watanabe
 
 <p align="center">
-  Full Stack Developer | JavaScript | Node.js | PostgreSQL
+  Full Stack Developer | JavaScript/TypeScritp | React | Node.js | PostgreSQL
 </p>
-
 
 ## About Me
 - 🎧 **DJ & Music Producer**: Passionate about creating and mixing music during my spare time.
-- 🪴 **Lifelong Learner**: Currently studying JavaScript, Node.js, React, and PostgreSQL.
+- 🪴 **Lifelong Learner**: Currently studying TypeScript, React, and Docker.
 - 🎛 **Hobbies**: Enjoying music, series, movies, drinks, and hanging out with friends.
 - 🎓 **Education**: [Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) at [Cubos Academy](https://cubos.academy/)
 - 💭 **Interests**: UX/UI, AI, Games, Cars, and Dystopian Fiction Books.
@@ -27,7 +26,11 @@
 ## GitHub Stats
 <p align="center">
   <img width=400 src='https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+</p>
+<p align="center">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joaowatanabe&theme=vue-dark&hide_border=true' />
+</p>
+<p align="center">
   <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
@@ -40,7 +43,6 @@
   <img alt="current music" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12142982263&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=0f6c2b&bar_color_cover=false"/>
 </p>
 
-
 ## Contact & Social Media
 <div align="center">
   <a href="https://instagram.com/wabemusic" target="_blank">
@@ -52,13 +54,13 @@
   <a href="mailto:jvwatanabe@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="htts://www.linkedin.com/in/joaowatanabe" target="_blank">
+  <a href="https://www.linkedin.com/in/joaowatanabe" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
 <p align="center">
   <img alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif"/>
-</p>  
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f2054&height=120&section=footer"/>
