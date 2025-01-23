@@ -27,7 +27,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaowatanabe&theme=tokyonight&hide_border=true&locale=en&card_width=800&card_height=200&fire=6B32B7&ring=E60BFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joaowatanabe&theme=tokyonight&exclude_days=Sun&card_width=800&card_height=200)](https://git.io/streak-stats)
 
   ![Joao Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=tokyonight&hide_border=true&locale=en&card_width=800&show_icons=true)
   
