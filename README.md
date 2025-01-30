@@ -27,7 +27,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joaowatanabe&theme=merko&card_width=800&card_height=200)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=joaowatanabe&theme=merko&card_width=800&card_height=200)
 
   ![Joao Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=merko&hide_border=true&locale=en&card_width=800&show_icons=true)
   
