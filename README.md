@@ -27,11 +27,11 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joaowatanabe&theme=tokyonight&exclude_days=Sun&card_width=800&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joaowatanabe&theme=merko&card_width=800&card_height=200)](https://git.io/streak-stats)
 
-  ![Joao Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=tokyonight&hide_border=true&locale=en&card_width=800&show_icons=true)
+  ![Joao Watanabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaowatanabe&theme=merko&hide_border=true&locale=en&card_width=800&show_icons=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=tokyonight&hide_border=true&layout=compact&card_width=800)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaowatanabe&theme=merko&hide_border=true&layout=compact&card_width=800)
   
 </div>
 
