@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=Hello!&fontColor=ffff&fontSize=65&animation=fadeIn&descAlignY=64"/>
 
-# Hello! 👋 I'm João Watanabe
+# 👋 I'm João Watanabe
 
 <p align="center">
   Full Stack Developer | JavaScript/TypeScript | React | Node.js | PostgreSQL
