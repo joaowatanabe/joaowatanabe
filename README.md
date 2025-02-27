@@ -11,8 +11,7 @@
 - 🪴 **Lifelong Learner**: Currently studying TypeScript, React, and Docker.
 - 🎛 **Hobbies**: Enjoying music, series, movies, drinks, and hanging out with friends.
 - 🎓 **Education**: [Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) at [Cubos Academy](https://cubos.academy/)
-- 💭 **Interests**: UX/UI, AI, Games, Cars, and Dystopian Fiction Books.
-- 📚 **Currently Reading**: The Sprawl Trilogy by William Gibson.
+- 💭 **Interests**: Games, Cars, Music, Trips, Series and films.
 
 > "One step every day!"
 
