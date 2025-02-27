@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=Hello!&fontColor=ffff&fontSize=65&animation=fadeIn&descAlignY=64"/>
 
 # Hello! 👋 I'm João Watanabe
 
@@ -64,4 +64,4 @@
   <img alt="wabe-madara" src="https://c.tenor.com/QErSwRpiyKcAAAAM/ghost-of-the-uchiha-naruto-shippuden.gif"/>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f2054&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Contact%20me&section=footer&fontSize=50&fontAlign=50&fontAlignY=60&fontColor=ffff"/>
