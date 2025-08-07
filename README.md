@@ -7,6 +7,7 @@
 </p>
 
 ## About Me
+- 🎓 **Academic**: Currently studying Systems Analysis and Development - SENAC-RS
 - 🎧 **DJ & Music Producer**: Passionate about creating and mixing music during my spare time.
 - 🪴 **Lifelong Learner**: Currently studying TypeScript, React, and Docker.
 - 🎛 **Hobbies**: Enjoying music, series, movies, drinks, and hanging out with friends.
