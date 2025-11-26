@@ -27,7 +27,8 @@
 <div align="center">
 
   <img 
-    src="https://streak-stats.demolab.com?user=joaowatanabe&theme=aura-dark&hide_border=true&border_radius=20&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" 
+    width="100%" 
+    src="https://streak-stats.demolab.com?user=joaowatanabe&theme=midnight-purple&hide_border=true&border_radius=20&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=800&card_height=200" 
     alt="GitHub Streak"
   />
 
