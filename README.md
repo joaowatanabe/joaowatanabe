@@ -18,7 +18,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,nodejs,nextjs,express,postgres,docker,prisma,git,vscode,figma,ableton" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,nextjs,express,postgres,prisma,nestjs,jest,git,vscode,figma,ableton" />
   </a>
 </p>
 
