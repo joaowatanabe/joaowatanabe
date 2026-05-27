@@ -45,18 +45,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-🚧 Coming soon — building solid portfolio projects focused on:
-
-- Full Stack Applications
-- REST APIs
-- Financial Systems
-- Automation Bots
-- DevOps Practices
-
----
-
 ## 📚 Certifications
 
 🎓 [Full Stack Development — Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
