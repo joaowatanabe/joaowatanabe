@@ -70,10 +70,10 @@ I'm a developer from **Pelotas, RS 🇧🇷**, currently interning at **[Coinpel
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-eight-liard.vercel.app/api?username=joaowatanabe&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats-psi-topaz.vercel.app/api?username=joaowatanabe&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&cache_seconds=86400"/>
 <img height="170em" src="https://streak-stats.demolab.com?user=joaowatanabe&theme=merko&hide_border=true&cache_seconds=86400"/>
 
-<img height="150em" src="https://github-readme-stats-eight-liard.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="150em" src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=joaowatanabe&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
