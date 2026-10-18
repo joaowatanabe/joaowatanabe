@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=Jo%C3%A3o%20Watanabe&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Developer%20%E2%80%A2%20Code%20reviewer%20in%20training%20%E2%80%A2%20AI-native%20workflow&descSize=18&descAlignY=64" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=Jo%C3%A3o%20Watanabe&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Developer%20%E2%80%A2%20AI-native%20workflow&descSize=18&descAlignY=64" />
 
 <p align="center">
   <a href="https://github.com/joaowatanabe">
